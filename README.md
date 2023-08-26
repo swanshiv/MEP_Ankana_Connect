@@ -1,4 +1,4 @@
-# Mathematics Enhancement Program
+# Ankana Connect - A Mathematics Enhancement Program
 
 Welcome to the Mathematics Enhancement Program repository! This project aims to digitally deliver teacher training programs as part of an initiative to enhance mathematics education in primary schools across Karnataka and Tamil Nadu.
 
